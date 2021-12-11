@@ -1,2 +1,2 @@
-# Crud-cake
+# Crud-cakephp
 my first crud in cakephp
